@@ -42,25 +42,4 @@ Calcula métricas importantes como:
 - Neto total
 - Cantidad de operaciones
 
-Esta API es el backend de una aplicación de finanzas personales que permite gestionar de manera sencilla los ingresos y gastos de un usuario.
-
----
-
-## Instalación del proyecto
-
-```bash
-npm install
-```
-
-# Modo desarrollo
-
-npm run start
-
-# Modo desarrollo con watch
-
-npm run start:dev
-
-# Modo producción
-
-npm run start:prod
-# API-Personal-Finance-Tracker
+## Esta API es el backend de una aplicación de finanzas personales que permite gestionar de manera sencilla los ingresos y gastos de un usuario.
